@@ -1,0 +1,5 @@
+useremail,userpassword,expacted
+admin@yourstore.com,adminm,Fail
+admin@yourstore.comm,admin,Fail
+admin@yourstore.comm,adminm,Fail
+admin@yourstore.com,admin,Pass

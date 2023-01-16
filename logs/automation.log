@@ -1,0 +1,199 @@
+01/15/23 01:03:10 AM,400 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:03:12 AM,593 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:03:12 AM,601 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:03:12 AM,783 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:03:12 AM,909 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:03:18 AM,268 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:03:18 AM,268 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:03:18 AM,302 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:03:18 AM,425 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:16:14 AM,290 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:16:16 AM,225 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:16:16 AM,233 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:16:16 AM,376 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:16:16 AM,506 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:16:21 AM,905 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:16:21 AM,905 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:16:21 AM,959 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:16:22 AM,53 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:36:56 AM,488 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:37:05 AM,612 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:37:05 AM,623 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:37:05 AM,812 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:37:05 AM,944 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:37:11 AM,257 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:37:11 AM,257 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:37:11 AM,294 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:37:11 AM,388 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:39:15 AM,392 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:39:17 AM,573 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:39:17 AM,581 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:39:17 AM,720 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:39:17 AM,846 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:39:41 AM,416 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:39:41 AM,416 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:39:41 AM,466 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:39:41 AM,648 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:42:15 AM,776 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:42:17 AM,605 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:42:17 AM,613 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:42:17 AM,753 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:42:17 AM,881 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:42:23 AM,467 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:42:23 AM,467 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:42:23 AM,497 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:42:23 AM,608 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:44:58 AM,604 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:45:00 AM,351 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:45:00 AM,358 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:45:00 AM,496 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:45:00 AM,619 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:45:05 AM,666 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:45:05 AM,666 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:45:05 AM,714 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:45:05 AM,836 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:46:18 AM,365 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:46:20 AM,268 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:46:20 AM,275 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:46:20 AM,417 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:46:20 AM,545 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:46:25 AM,234 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:46:25 AM,235 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:46:25 AM,269 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:46:25 AM,383 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:47:05 AM,82 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:47:07 AM,144 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:47:07 AM,151 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:47:07 AM,293 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:47:07 AM,425 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:47:12 AM,583 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:47:12 AM,583 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:47:12 AM,639 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:47:12 AM,742 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:49:54 AM,632 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:49:56 AM,655 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:49:56 AM,668 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:49:56 AM,886 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:49:57 AM,55 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:50:02 AM,504 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:50:02 AM,504 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:50:02 AM,554 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:50:02 AM,667 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:54:43 AM,415 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:54:45 AM,227 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:54:45 AM,234 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:54:45 AM,434 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:54:45 AM,581 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:54:50 AM,946 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:54:50 AM,946 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:54:50 AM,980 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:54:51 AM,92 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 01:56:58 AM,141 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 01:57:00 AM,15 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:57:00 AM,23 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 01:57:00 AM,166 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 01:57:00 AM,294 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 01:57:05 AM,872 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 01:57:05 AM,873 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 01:57:05 AM,935 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 01:57:06 AM,40 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:01:36 AM,968 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:01:38 AM,769 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:01:38 AM,776 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:01:38 AM,921 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:01:39 AM,49 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:01:46 AM,918 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:01:46 AM,918 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:01:46 AM,971 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:01:47 AM,59 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:07:18 AM,333 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:07:44 AM,933 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:07:44 AM,942 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:07:45 AM,161 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:07:45 AM,324 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:08:00 AM,722 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:08:00 AM,723 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:08:00 AM,763 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:08:00 AM,866 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:12:41 AM,149 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:12:42 AM,999 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:12:43 AM,6 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:12:43 AM,152 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:12:43 AM,283 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:12:48 AM,640 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:12:48 AM,640 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:12:48 AM,661 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:12:48 AM,779 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:16:54 AM,750 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:16:56 AM,667 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:16:56 AM,675 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:16:56 AM,861 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:16:57 AM,0 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:17:02 AM,365 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:17:02 AM,365 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:17:02 AM,393 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:17:02 AM,566 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:18:30 AM,579 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:18:55 AM,172 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:18:55 AM,181 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:18:55 AM,417 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:18:55 AM,613 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:19:16 AM,223 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:19:16 AM,224 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:19:16 AM,257 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:19:16 AM,362 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:19:57 AM,857 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:19:59 AM,829 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:19:59 AM,841 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:20:00 AM,81 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:20:00 AM,230 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:20:05 AM,972 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:20:05 AM,973 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:20:05 AM,996 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:20:06 AM,85 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:21:12 AM,449 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:21:14 AM,363 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:21:14 AM,371 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:21:14 AM,551 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:21:14 AM,724 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:21:25 AM,149 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:21:25 AM,150 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:21:25 AM,185 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:21:25 AM,302 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:26:03 AM,133 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:26:05 AM,27 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:26:05 AM,35 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:26:05 AM,182 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:26:05 AM,322 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:26:10 AM,500 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:26:10 AM,500 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:26:10 AM,529 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:26:10 AM,625 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 02:27:56 AM,460 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 02:27:58 AM,477 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:27:58 AM,488 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 02:27:58 AM,672 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 02:27:58 AM,829 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 02:28:04 AM,192 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 02:28:04 AM,193 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 02:28:04 AM,240 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 02:28:04 AM,355 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/15/23 03:13:03 AM,490 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/15/23 03:13:18 AM,785 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 03:13:18 AM,795 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/15/23 03:13:19 AM,24 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/15/23 03:13:19 AM,179 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/15/23 03:13:30 AM,809 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/15/23 03:13:30 AM,810 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/15/23 03:13:30 AM,845 Test_Login_001 - INFO :  **********>> login <<**********
+01/15/23 03:13:30 AM,948 nopComm_Login_Page - ERROR :  **********>> verifying nopCommerce login page title is failed <<**********
+01/16/23 15:31:29 PM,386 setup - INFO :  **********>> Lunching chrome browser <<**********
+01/16/23 15:31:32 PM,495 Test_Login_001 - INFO :  **********>> login <<**********
+01/16/23 15:31:32 PM,541 nopComm_Login_Page - INFO :  **********>> verifying nopCommerce login page title is success <<**********
+01/16/23 15:31:32 PM,859 nopComm_Login_Page - INFO :  **********>> entring email is successfull <<**********
+01/16/23 15:31:33 PM,225 nopComm_Login_Page - INFO :  **********>> entring password is successfull <<**********
+01/16/23 15:31:40 PM,762 nopComm_Login_Page - INFO :  **********>> Login Page to Dashboard is success <<**********
+01/16/23 15:31:40 PM,763 Test_Login_001 - INFO :  **********>> nopCommmerce login Test successful <<**********
+01/16/23 15:31:41 PM,131 Test_Login_001 - INFO :  **********>> Clicking On Customer Manu is successful <<**********
+01/16/23 15:31:43 PM,913 Test_Login_001 - INFO :  **********>> Clicking On Manu Item Customer is successful <<**********
+01/16/23 15:31:52 PM,330 Test_Login_001 - INFO :  **********>> Ending the nopCommerce Add Customer <<**********
